@@ -20,7 +20,7 @@ $wgExtensionCredits['other'][] = array(
     'author' => '[https://about.suriyaa.tk/ Suriyaa Sundararuban]', 
     'url' => 'https://www.mediawiki.org/wiki/Extension:Info',
     'description' => 'Adds a info tab on all normal pages, allowing for quick info displaying',
-    'version'  => '1.0.0',
+    'version'  => '2.0.0',
     'license-name' => "GPL-2.0+",
 );
 
