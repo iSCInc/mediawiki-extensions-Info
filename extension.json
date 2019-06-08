@@ -9,8 +9,5 @@
 	"requires": {
 		"MediaWiki": ">= 1.29.0"
 	},
-	"ExtensionMessagesFiles": {
-		"OpenBadgesAlias": "Info.i18n.php"
-	},
 	"manifest_version": 1
 }
